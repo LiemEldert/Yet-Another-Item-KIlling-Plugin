@@ -1,0 +1,9 @@
+name: YAIKP
+version: 1.0
+main: dev.joinaurora.YAIKP.YAIKP
+
+commands:
+  KillDrops:
+    description: Your description
+    usage: /<command>
+    permission: yourplugin.yourcommandpermission
